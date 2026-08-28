@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishnu Priyan A
 
-<!--
-**Vishnupriyan100/vishnupriyan100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cyber Security Student | 🌱 Learning Java | 🌐 Web Development
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.E. Cyber Security Student
+- 🌱 Currently learning Java, SQL and JDBC
+- 🐍 Working with Python basics
+- 🔐 Interested in Cyber Security and Network Security
+- 🌐 Learning Web Development
+- 🚀 Building projects and improving my technical skills
+
+## 🛠️ Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,php,mysql,git,github,vscode,linux" />
+</p>
+
+## 🚀 Projects
+
+- 🔍 Network Port Scanner
+- 👨‍🎓 Smart Attendance System
+- 📄 Online Resume Builder
+
+## 🤝 Connect With Me
+
+[GitHub](https://github.com/Vishnupriyan100)
+
+[LinkedIn](https://www.linkedin.com/in/vishnupriyan-a-cyber)
+
+---
+
+⭐ Thanks for visiting my profile!
