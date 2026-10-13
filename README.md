@@ -6,6 +6,8 @@ I am a final-year **B.E. Cyber Security** student at **Mahendra Engineering Coll
 
 I enjoy building projects that combine **security, networking, AI, and software development**, while continuously improving my technical and hands-on skills.
 
+[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-Visit_Now-0A66C2?style=for-the-badge)](https://vishnupriyan100.github.io/vishnu-portfolio/)
+
 ## 👨‍💻 About Me
 
 - 🎓 Final-year B.E. Cyber Security student — Expected Graduation: **May 2027**
@@ -67,6 +69,7 @@ Hands-on penetration testing and security lab project involving enumeration and 
 
 ## 🤝 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnupriyan100.github.io/vishnu-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vishnupriyan100-181717?style=for-the-badge&logo=github)](https://github.com/Vishnupriyan100)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu%20Priyan%20A-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishnupriyan-a-cyber)
 
